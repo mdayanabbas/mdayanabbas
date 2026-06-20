@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F5C518&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Mohammed+Ayan+Abbas;I+turn+ideas+into+useful+software.;Clean+code.+Sharp+interfaces.+Real+impact.;It%27s+not+who+I+am+underneath..." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=F5C518&center=true&vCenter=true&width=850&lines=Hey%2C+I%27m+Mohammed+Ayan+Abbas;Backend+AI+Engineer+%7C+MLOps;I+build+intelligent%2C+production-ready+systems.;Clean+code.+Reliable+infra.+Real+impact." alt="Animated introduction" />
 
 <h3>Developer by day. Guardian of clean code by night. 🦇</h3>
 
@@ -18,6 +18,12 @@
 </a>
 <a href="https://www.linkedin.com/in/mdayanabbas/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F5C518" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/ayanabbas/">
+  <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=F5C518" alt="LeetCode" />
+</a>
+<a href="https://x.com/Stat_Sawyer">
+  <img src="https://img.shields.io/badge/@Stat__Sawyer-0D1117?style=for-the-badge&logo=x&logoColor=F5C518" alt="X profile" />
 </a>
 <a href="https://github.com/mdayanabbas?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_My_Work-0D1117?style=for-the-badge&logo=githubactions&logoColor=F5C518" alt="Explore my repositories" />
@@ -36,13 +42,14 @@
 
 ```yaml
 name: Mohammed Ayan Abbas
-role: Software Developer
+role: Backend AI Engineer | MLOps
+experience: 1+ year
 strongest_language: C++
-mission: Build software that is useful, elegant, and memorable
+mission: Ship intelligent, scalable, and production-ready systems
 currently:
-  - sharpening my engineering fundamentals
-  - creating projects that solve real problems
-  - exploring better ways to turn ideas into products
+  - building reliable AI-powered backend services
+  - productionizing ML and LLM workflows
+  - improving cloud-native deployment and observability
 open_to:
   - interesting collaborations
   - challenging engineering opportunities
@@ -51,27 +58,106 @@ open_to:
 
 > “Why do we fall? So that we can learn to pick ourselves up.”
 
-## The utility belt
+## Backend AI & MLOps utility belt
 
 <div align="center">
 
-### Languages
+### Core languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,go,js,ts,python,html,css&theme=dark" alt="C++, C, Java, Go, JavaScript, TypeScript, Python, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=cpp,python,c,go,java,ts,js,bash&theme=dark" alt="C++, Python, C, Go, Java, TypeScript, JavaScript and Bash" />
 
 <br />
 
-<sub><b>Primary language:</b> C++ · performance-minded, systems-oriented, and built close to the metal</sub>
+<sub><b>Favourite language:</b> C++ · performance-minded, systems-oriented, and built close to the metal</sub>
 
-### Frameworks & runtime
+### Backend engineering
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" alt="React, Next.js, Node.js, Express and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,spring,graphql,nginx&theme=dark" alt="FastAPI, Django, Flask, Node.js, Express, Spring, GraphQL and Nginx" />
 
-### Data, cloud & tools
+<br />
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,git,github,vscode,figma&theme=dark" alt="MongoDB, MySQL, PostgreSQL, Firebase, Git, GitHub, VS Code and Figma" />
+<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=F5C518" alt="REST APIs" />
+<img src="https://img.shields.io/badge/gRPC-0D1117?style=flat-square&logo=google&logoColor=F5C518" alt="gRPC" />
+<img src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&logo=icloud&logoColor=F5C518" alt="Microservices" />
+<img src="https://img.shields.io/badge/Async_Processing-0D1117?style=flat-square&logo=celery&logoColor=F5C518" alt="Asynchronous processing" />
+<img src="https://img.shields.io/badge/OAuth_2.0_%26_JWT-0D1117?style=flat-square&logo=auth0&logoColor=F5C518" alt="OAuth 2.0 and JWT" />
+
+### Applied AI, ML & LLMs
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch, TensorFlow, scikit-learn and OpenCV" />
+
+<br />
+
+<img src="https://img.shields.io/badge/LLMs_%26_GenAI-0D1117?style=flat-square&logo=openai&logoColor=F5C518" alt="Large Language Models and Generative AI" />
+<img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logo=googlegemini&logoColor=F5C518" alt="Retrieval-Augmented Generation" />
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=F5C518" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=F5C518" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Embeddings_&_Vector_Search-0D1117?style=flat-square&logo=semanticweb&logoColor=F5C518" alt="Embeddings and vector search" />
+<img src="https://img.shields.io/badge/Model_Serving-0D1117?style=flat-square&logo=ray&logoColor=F5C518" alt="Model serving" />
+
+### MLOps, containers & infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,jenkins,&theme=dark" alt="Docker, Kubernetes, AWS, GitHub Actions, Jenkins" />
+
+<br />
+
+<img src="https://img.shields.io/badge/MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=F5C518" alt="MLflow" />
+<img src="https://img.shields.io/badge/DVC-0D1117?style=flat-square&logo=dvc&logoColor=F5C518" alt="DVC" />
+<img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=F5C518" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=F5C518" alt="Continuous integration and deployment" />
+<img src="https://img.shields.io/badge/Model_Monitoring-0D1117?style=flat-square&logo=grafana&logoColor=F5C518" alt="Model monitoring" />
+
+### AWS cloud
+
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=F5C518" alt="Amazon Web Services" />
+
+<br />
+
+<img src="https://img.shields.io/badge/EC2-0D1117?style=flat-square&logo=amazonec2&logoColor=F5C518" alt="Amazon EC2" />
+<img src="https://img.shields.io/badge/S3-0D1117?style=flat-square&logo=amazons3&logoColor=F5C518" alt="Amazon S3" />
+<img src="https://img.shields.io/badge/Lambda-0D1117?style=flat-square&logo=awslambda&logoColor=F5C518" alt="AWS Lambda" />
+<img src="https://img.shields.io/badge/ECR_·_ECS_·_EKS-0D1117?style=flat-square&logo=amazonecs&logoColor=F5C518" alt="Amazon ECR, ECS and EKS" />
+<img src="https://img.shields.io/badge/SageMaker-0D1117?style=flat-square&logo=amazonwebservices&logoColor=F5C518" alt="Amazon SageMaker" />
+<img src="https://img.shields.io/badge/Bedrock-0D1117?style=flat-square&logo=amazonwebservices&logoColor=F5C518" alt="Amazon Bedrock" />
+<img src="https://img.shields.io/badge/RDS-0D1117?style=flat-square&logo=amazonrds&logoColor=F5C518" alt="Amazon RDS" />
+<img src="https://img.shields.io/badge/CloudWatch_·_IAM-0D1117?style=flat-square&logo=amazoncloudwatch&logoColor=F5C518" alt="Amazon CloudWatch and IAM" />
+
+### Databases, vector stores & messaging
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,kafka,rabbitmq&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Kafka and RabbitMQ" />
+
+<br />
+
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logo=meta&logoColor=F5C518" alt="FAISS" />
+<img src="https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&logo=pinecone&logoColor=F5C518" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&logo=qdrant&logoColor=F5C518" alt="Qdrant" />
+
+### Engineering workflow
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,pytest&theme=dark" alt="Linux, Git, GitHub, Postman, VS Code and pytest" />
 
 </div>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td><b>Backend</b></td>
+    <td>API design · system design · caching · concurrency · authentication · performance</td>
+  </tr>
+  <tr>
+    <td><b>AI engineering</b></td>
+    <td>training · evaluation · prompt engineering · RAG · inference · model serving</td>
+  </tr>
+  <tr>
+    <td><b>MLOps</b></td>
+    <td>experiment tracking · data/model versioning · pipelines · deployment · drift monitoring</td>
+  </tr>
+  <tr>
+    <td><b>Quality</b></td>
+    <td>unit/integration testing · API documentation · logging · metrics · tracing</td>
+  </tr>
+</table>
 
 <br />
 
@@ -153,6 +239,12 @@ I’m always happy to meet builders, exchange ideas, and explore opportunities.
 </a>
 <a href="https://github.com/mdayanabbas">
   <img src="https://img.shields.io/badge/Follow_my_GitHub-F5C518?style=for-the-badge&logo=github&logoColor=0D1117" alt="Follow on GitHub" />
+</a>
+<a href="https://leetcode.com/ayanabbas/">
+  <img src="https://img.shields.io/badge/Solve_with_me_on_LeetCode-F5C518?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="View my LeetCode profile" />
+</a>
+<a href="https://x.com/Stat_Sawyer">
+  <img src="https://img.shields.io/badge/Follow_@Stat__Sawyer-F5C518?style=for-the-badge&logo=x&logoColor=0D1117" alt="Follow me on X" />
 </a>
 
 <br /><br />
